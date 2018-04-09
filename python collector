@@ -1,0 +1,5 @@
+>>> L = [1,2,3]
+>>> iterator = iter(L)
+>>> t = tuple(iterator)
+>>> t
+(1, 2, 3)
